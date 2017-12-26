@@ -1,3 +1,51 @@
+body {
+  background-color: #333333;
+}
+
+#content-row {
+  padding-top: 20%;
+}
+
+#copy-col {
+  padding-top: 5%;
+}
+
 .img-fluid {
   width: 50%;
+  padding-bottom: 2%;
+}
+
+h1 {
+  color: #F2F2F2;
+  padding-bottom: 2%;
+  font-size: 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  color: #AFBEE0;
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.links-div {
+  padding-left: 20%;
+}
+
+h3 {
+  color: #F2F2F2;
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 120%;
+}
+
+.ut-austin {
+  color: #FFC994;
+}
+
+.ov {
+  color: #FFC0DA;
 }
